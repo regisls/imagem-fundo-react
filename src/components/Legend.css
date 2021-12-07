@@ -1,0 +1,19 @@
+.legend {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  max-width: 40%;
+  opacity: 0.65;
+  background-color: #000;
+  color: #fff;
+  font-size: 1.4rem;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  margin-top: 25px;
+  margin-right: 25px;
+}
+
+.legend p {
+  margin: 0;
+}
