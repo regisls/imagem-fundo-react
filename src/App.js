@@ -8,7 +8,7 @@ export default (props) => {
   return (
     <div>
       <Image />
-      <Legend />
+      <Legend visible={true} />
     </div>
   );
 };
